@@ -13,12 +13,10 @@
 ### 🧠 Movement Analysis Model for Stroke Recovery
 Computer vision-based rehab tracking using **OpenPose**, **MediaPipe**, and **TensorFlow**.  
 > Detects and classifies exercises with high accuracy for personalized recovery feedback.  
-🔗 [GitHub Repo](#) | [Demo](#)
 
 ### ✈️ Travel Recommendation System
 Built using **React.js**, **Django**, and **REST APIs** for personalized travel and flight booking.  
-> Cut API response time by 40% with smart caching and optimized requests.  
-🔗 [GitHub Repo](#)
+> Cut API response time by 40% with smart caching and optimized requests. 
 
 ---
 
