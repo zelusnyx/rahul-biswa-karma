@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 I’m a **Computer Science graduate student** (GPA: 4.00/4.00) and research enthusiast working at the intersection of **Machine Learning, Federated Learning**, and **Reinforcement Learning**.  
-I’m passionate about developing scalable, privacy-preserving AI systems for real-world impact — from healthcare (autonomous systems and gesture recognition) to secure federated platforms.
+I’m passionate about developing scalable, privacy-preserving AI systems for real-world impact from healthcare (autonomous systems and gesture recognition) to secure federated platforms.
 
 Currently, I serve as a **Graduate & Research Assistant at Bradley University**, contributing to both academic instruction and AI-driven research projects.
 
